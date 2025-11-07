@@ -26,6 +26,12 @@
   - 是一個非正式的表達，意思是“連接”、“整合”或“將...
 > top-shelf 高品質
 #### Episode 7. Zoey's Extraordinary Confession
+> As a matter of fact
+  - 事實上, 實際上
+> get over
+  - 克服、從…中恢復過來
+> I didn't peg you for a food court guy.
+  - peg 作為動詞使用，意思是「將...歸類為」、「認為...是」
 #### Episode 8. Zoey's Extraordinary Glitch
 #### Episode 9. Zoey's Extraordinary Silence
 #### Episode 10. Zoey's Extraordinary Outburst
@@ -44,3 +50,5 @@
 - [ ] libation(s)
 - [ ] blindside 弱點, 措手不及, 猝不及防
 - [ ] dabbling (verb) 玩水, 輾轉ㄝ涉足, 淺嚐, 涉獵
+- [ ] Reinstating (verb) 恢復, 復職, 恢復原職
+- [ ] 
