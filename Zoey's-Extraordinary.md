@@ -62,7 +62,21 @@
   - 接受、適應或順應某個情況，即使這個情況原本並非理想或計畫中的。它表示一種隨遇而安、積極應對的態度。
 > Leif is definitely up to something.
   - "up to something" 表示「做著什麼事，通常是秘密或不尋常的事情」
+> I caught up in a moment of passion
+  - "caught up" 表示「沉迷」、「捲入」或「被帶入」
+> He owned up to his mistake and apologized.
+  - "owned up to" 的意思是承認、負責。
 #### Episode 9. Zoey's Extraordinary Silence
+> I'll take the rain check.
+- "Rain check"表示婉拒邀請，但表示以後有機會再參加的意思
+> ratted me out.
+- 「告密」、「出賣」
+> dust up
+- 「小爭執」、「小衝突」或「小打鬧」
+> joined at the hip
+- 「非常親密」、「形影不離」
+> off-the-cuff
+- 「即興的」、「沒有事先準備的」
 #### Episode 10. Zoey's Extraordinary Outburst
 #### Episode 11. Zoey's Extraordinary Mother
 #### Episode 12. Zoey's Extraordinary Dad
@@ -89,3 +103,6 @@
 - [ ] sleight
 - [ ] oeuvre
 - [ ] sketchy 不可靠的, 靠不住的, 可疑的
+- [ ] avert(verb) 避免, 紓
+- [ ] bleak(adj.) 蒼涼, 嚴峻, 蕭條, 蕭瑟, 荒涼, 陰鬱, 暗淡
+- [ ] flair 風格, 天份, 才華, 天賦
