@@ -78,11 +78,19 @@
 > off-the-cuff
 - 「即興的」、「沒有事先準備的」
 #### Episode 10. Zoey's Extraordinary Outburst
-> "out of the blue" 中的 "out" 是一個介係詞，表示「毫無預兆」、「突如其來」
+> out of the blue
+- "out" 是一個介係詞，表示「毫無預兆」、「突如其來」
 > "sticking up for him" 在這句話中表示 為他辯護、支持他。
 #### Episode 11. Zoey's Extraordinary Mother
+> hold my ground
+- 固定短語，指「堅持己見」、「堅守立場」
 #### Episode 12. Zoey's Extraordinary Dad
- 
+> bad moon on the rise
+- 不吉祥
+> he was crushing me in gin rummy earlier.
+- crushing 作為動詞，意思是「徹底擊敗」、「壓倒性地戰勝」
+> I'm just hoping it was a butt dial from his smart pants.
+-  "butt dial" 是個口語化的詞彙，指的是手機意外地在臀部口袋裡或某種擠壓下撥出電話的情況。 "smart pants" 則指對方比較自大、愛炫耀。整個句子表達的是說話者希望對方無意中撥出的電話只是因為手機在口袋裡被擠壓造成的，而非對方刻意撥打。
 ### Vocabulary
 - [ ] bespoke 訂製, 訂做, 特製, 定製
 - [ ] commit
@@ -113,3 +121,7 @@
 - [ ] wallow 沉迷
 - [ ] bummed 失望, 沮喪, 不高興, 情緒低落, 自怨自艾
 - [ ] extravagant (adj.) 奢華, 奢侈, 鋪張
+- [ ] funneling 秘密地、有目的地引導或轉移
+- [ ] espionage 商業間諜行為，即竊取商業機密或情報的行為
+- [ ] insubordination 對抗, 不服從, 叛逆
+- [ ] perkya
