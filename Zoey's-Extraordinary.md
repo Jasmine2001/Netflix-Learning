@@ -1,5 +1,5 @@
-### Zoey's Extraordinary Playlist
-
+## Zoey's Extraordinary Playlist
+### Season 1
 #### Episode 4. Zoey's Extraordinary Neighbor
 #### Episode 5. Zoey's Extraordinary Failure
 > I had to talk her into it.
@@ -91,6 +91,50 @@
 - crushing 作為動詞，意思是「徹底擊敗」、「壓倒性地戰勝」
 > I'm just hoping it was a butt dial from his smart pants.
 -  "butt dial" 是個口語化的詞彙，指的是手機意外地在臀部口袋裡或某種擠壓下撥出電話的情況。 "smart pants" 則指對方比較自大、愛炫耀。整個句子表達的是說話者希望對方無意中撥出的電話只是因為手機在口袋裡被擠壓造成的，而非對方刻意撥打。
+
+### Season 2
+
+#### Episode 1. Zoey's Extraordinary Return
+> put up a fight
+- 奮力抵抗、不屈服或不合作
+> looking out for her.
+- looking out for 的用法是 關心、照顧、留意。
+> The stocks are falling, the board is riding me like crazy
+- 
+> vultures circle your head
+- vultures" 指的是禿鷹。這裡用的是比喻的用法，指的是那些等待著你失敗或倒霉時，會乘機得利的人或勢力，例如機會主義者、競爭對手或捕食者。它們「盤旋在你的頭頂」，象徵著潛在的危險和壓力。
+> I'm still getting my bearings
+- 他們還在努力適應新環境、新情況，或者需要時間來了解周圍的一切
+> the clock is ticking
+- 時間不多，必須趕緊採取行動
+> if you're game
+- 「有興趣的」、「樂於嘗試的」
+> I can't possibly walk a mile in your shoes…
+- 我無法真正理解你的感受/處境…
+
+
+#### Episode 2. Zoey's Extraordinary Distraction
+
+#### Episode 3. Zoey's Extraordinary Dreams
+
+#### Episode 4. Zoey's Extraordinary Employee
+
+#### Episode 5. Zoey's Extraordinary Trip
+
+#### Episode 6. Zoey's Extraordinary Reckoning
+
+#### Episode 7. Zoey's Extraordinary Memory
+
+#### Episode 8. Zoey's Extraordinary Birthday
+
+#### Episode 9. Zoey's Extraordinary Mystery
+
+#### Episode 10. Zoey's Extraordinary Girls' Night
+
+#### Episode 11. Zoey's Extraordinary Double Date
+
+#### Episode 12. Zoey's Extraordinary Session
+
 ### Vocabulary
 - [ ] bespoke 訂製, 訂做, 特製, 定製
 - [ ] commit
@@ -128,3 +172,9 @@
 - [ ] hideous  醜陋, 駭人聽聞, 猙獰
 - [ ] grotesque 怪誕的, 怪異的, 奇形怪狀
 - [ ] transcendent  超然的, 卓越的, 出眾的
+- [ ] levity
+- [ ] turmoil
+- [ ] peruse 瀏覽、快速閱讀
+- [ ] squander 浪費, 揮霍,
+
+
